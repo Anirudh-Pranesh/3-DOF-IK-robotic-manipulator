@@ -63,7 +63,7 @@ For a 3-DOF manipulator, the math is relatively simple, involving inverse trigon
 
 ## Real world applications 
 
-A robotic manipulator is a quintessential piece of technology in the medical field. They are used in surgical robots and prosthetics. 
+A robotic manipulator is a quintessential technological system in the medical field. They are used in surgical robots and prosthetics. 
 
 These are also often seen in industrial manufacturing processes and also used in space exploration missions. 
 
