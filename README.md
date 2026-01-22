@@ -2,14 +2,15 @@
 
 This project is an attempt at making a 3 degree of freedom robotic manipulator and implementing basic inverse kinematics
 
-Project contributors : 
+### Project contributors : 
 
-- Electronics and Programming : Anirudh Pranesh - Eletronics and communication engineering department, batch of 29'
-
-- Mathematical analsyses and assistance : 
-    - Neo Anil Dodti - Electronics and communication engineering department, batch of 29'
-    - Aman Tandon - Electronics and communication engineering department, batch of 29'
-- Mechanical design : Maxon David Nazereth - Mechanical engineering department, batch of 29'
+- **Electronics and Programming :**
+    -  Anirudh Pranesh - Eletronics and communication engineering department, National Institute of Technology Karnataka,  batch of 29'
+- **Mathematical analsyses and assistance :** 
+    - Neo Anil Dodti - Electronics and communication engineering department, National Institute of Technology Karnataka, batch of 29'
+    - Aman Tandon - Electronics and communication engineering department, National Institute of Technology Karnataka, batch of 29'
+- **Mechanical design :**
+    - Maxon David Nazereth - Mechanical engineering department, National Institute of Technology Karnataka, batch of 29'
 
 ## The robotic manipulator and degrees of freedom 
 
