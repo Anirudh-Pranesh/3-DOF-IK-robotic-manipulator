@@ -25,7 +25,7 @@ The degrees of freedom (DOF) of a manipulator is one of its defining features an
 
 The degree of freedom is the number of independent moements the robot can make. 
 
-## Introduction to the components od the manipulator and the initial design
+## Introduction to the components of a manipulator and the initial design
 
 The components that together constitute a robotic manipulator are **joints**, **links**, **actuators**, and **end-effectors**
 
