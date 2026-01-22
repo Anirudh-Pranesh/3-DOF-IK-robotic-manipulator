@@ -10,7 +10,7 @@ This project is an attempt at making a 3 degree of freedom robotic manipulator a
     - Neo Anil Dodti - Electronics and communication engineering department, National Institute of Technology Karnataka, batch of 29'
     - Aman Tandon - Electronics and communication engineering department, National Institute of Technology Karnataka, batch of 29'
 - **Mechanical design :**
-    - Maxon David Nazereth - Mechanical engineering department, National Institute of Technology Karnataka, batch of 29'
+    - Maxon David Nazareth - Mechanical engineering department, National Institute of Technology Karnataka, batch of 29'
 
 ## The robotic manipulator and degrees of freedom 
 
